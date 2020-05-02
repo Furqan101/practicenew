@@ -1,0 +1,46 @@
+.info{
+    display: flex;
+    background-color:rgb(68, 89, 209);
+    color: white;
+        
+}
+
+.SM,.donationoption{
+    cursor: pointer;
+}
+
+
+
+li {
+    display: inline;
+  }
+    
+
+
+.moreinfo{
+    margin: 10px 30px 10px 30px;
+    padding: 10px 0px 10px 0px;
+    background-color: rgb(68, 89, 209);
+    height: 30px;
+    color: white;
+}
+
+.introduction{
+    color:rgb(68, 89,209);
+    text-align: center;
+    align-content: center;        
+}
+.introductiondetails{
+    padding: 0px ;
+    margin: 110px;
+    text-align: justify;
+    
+}
+.servicesinnumber, .img{
+    display: flex;
+    background-color: rgb(68, 89, 209);
+    padding: 30px;
+    height: 100px;
+    color: white;
+
+}
